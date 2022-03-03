@@ -52,7 +52,6 @@ public class Hw4testt {
             return false;
             }
 
-
         public static boolean isBothLose (String[][]map){
             for (int i = 0; i < map.length; i++) {
                 for (int j = 0; i < map.length; i++) {
@@ -84,7 +83,6 @@ public class Hw4testt {
             }
             System.out.println("Комп сходил");
         }
-
 
         public static void playerTurn (String[][]map){
 
